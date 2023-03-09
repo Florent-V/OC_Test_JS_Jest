@@ -1,4 +1,4 @@
-import { sayHello } from "./unit/unit1";
+import { sayHello } from "./unit1";
 
 describe('SayHello Unit Test Suites', () => {
 
